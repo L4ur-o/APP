@@ -4,19 +4,8 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-> **Um jogo com base em incrementos de cliques em que o usuário acumula pontos e upa seu starter apenas clicando!**  
-
----
-
-## 📌 **Índice**  
-1. [Visão Geral](#-visão-geral)  
-2. [Funcionalidades](#✨-funcionalidades)  
-3. [Tecnologias Usadas](#🛠️-tecnologias-usadas)  
-4. [Estrutura do Projeto](#📂-estrutura-do-projeto)  
-5. [Como Executar](#🚀-como-executar)  
-6. [Contribuição](#🤝-contribuição)  
-7. [Licença](#📜-licença)  
-
+> **Um jogo com base em incrementos de cliques em que o usuário acumula pontos e upa seu starter apenas clicando!**
+> 
 ---
 
 ## 🌟 **Visão Geral**  
@@ -52,21 +41,6 @@ Um jogo simples de clicker desenvolvido em Flutter com:
 - **AnimationController** (Animações de clique)  
 - **Timer** (Autoclickers)  
 
----
-
-## 📂 **Estrutura do Projeto**  
-clicker_flutter/
-├── lib/
-│ ├── main.dart # Ponto de entrada
-│ ├── screens/ # Telas do app
-│ │ ├── game_screen.dart
-│ │ ├── upgrades_screen.dart
-│ │ └── stats_screen.dart
-│ └── widgets/ # Componentes reutilizáveis
-│ └── upgrade_tile.dart
-└── pubspec.yaml # Dependências e configurações
-
----
 
 ## 🚀 **Como Executar**  
 1. **Tenha o Flutter instalado**:  
